@@ -6,17 +6,30 @@
 
 | Total Problems | Topics |
 |---|---|
-| 1 | 3 |
+| 16 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [brute force](#brute-force) (3)
 - [data structures](#data-structures) (1)
+- [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
-- [math](#math) (1)
+- [implementation](#implementation) (7)
+- [math](#math) (7)
+- [sortings](#sortings) (1)
+- [strings](#strings) (4)
 
 ---
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 
 ### data structures
 
@@ -24,17 +37,60 @@
 |---|---------|------------|----------|
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 
+### greedy
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+
 ### hashing
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
+| 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
+
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1A | [Theatre Square](https://codeforces.com/contest/1/problem/A) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1/A%20-%20Theatre%20Square/solution.cpp) |
+| 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
+| 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
+| 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
+| 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 41A | [Translation](https://codeforces.com/contest/41/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/41/A%20-%20Translation/solution.cpp) |
+| 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/96/A%20-%20Football/solution.cpp) |
+| 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 
 ---
 
