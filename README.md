@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 14 |
+| 40 | 18 |
 
 ---
 
@@ -14,18 +14,22 @@
 
 - [*special](#special) (1)
 - [bitmasks](#bitmasks) (2)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (10)
 - [combinatorics](#combinatorics) (1)
 - [data structures](#data-structures) (1)
+- [dfs and similar](#dfs-and-similar) (1)
+- [dp](#dp) (4)
+- [graph matchings](#graph-matchings) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (13)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (14)
-- [math](#math) (13)
-- [number theory](#number-theory) (2)
-- [sortings](#sortings) (2)
+- [implementation](#implementation) (19)
+- [math](#math) (15)
+- [number theory](#number-theory) (3)
+- [sortings](#sortings) (5)
 - [strings](#strings) (5)
 - [trees](#trees) (1)
+- [two pointers](#two-pointers) (3)
 
 ---
 
@@ -49,9 +53,12 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/4/A%20-%20Watermelon/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 550B | [Preparing Olympiad](https://codeforces.com/contest/550/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/550/B%20-%20Preparing%20Olympiad/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### combinatorics
@@ -66,6 +73,27 @@
 |---|---------|------------|----------|
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 
+### dfs and similar
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 363B | [Fence](https://codeforces.com/contest/363/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/363/B%20-%20Fence/solution.cpp) |
+| 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
+
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+
 ### graphs
 
 | # | Problem | Difficulty | Solution |
@@ -79,9 +107,12 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
@@ -102,12 +133,17 @@
 | 145A | [Lucky Conversion](https://codeforces.com/contest/145/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/145/A%20-%20Lucky%20Conversion/solution.cpp) |
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
+| 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 580A | [Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/580/A%20-%20Kefa%20and%20First%20Steps/solution.cpp) |
 | 807A | [Is it rated?](https://codeforces.com/contest/807/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/807/A%20-%20Is%20it%20rated%3F/solution.cpp) |
 | 977A | [Wrong Subtraction](https://codeforces.com/contest/977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/977/A%20-%20Wrong%20Subtraction/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
+| 1760D | [Challenging Valleys](https://codeforces.com/contest/1760/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1760/D%20-%20Challenging%20Valleys/solution.cpp) |
 | 1818A | [Politics](https://codeforces.com/contest/1818/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1818/A%20-%20Politics/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
 | 2260A | [Monocarp's Contest](https://codeforces.com/contest/2260/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/2260/A%20-%20Monocarp's%20Contest/solution.cpp) |
@@ -122,10 +158,12 @@
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
+| 1296A | [Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1296/A%20-%20Array%20with%20Odd%20Sum/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1348A | [Phoenix and Balance](https://codeforces.com/contest/1348/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1348/A%20-%20Phoenix%20and%20Balance/solution.cpp) |
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
+| 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
@@ -135,14 +173,18 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1370A | [Maximum GCD](https://codeforces.com/contest/1370/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1370/A%20-%20Maximum%20GCD/solution.cpp) |
+| 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 
 ### sortings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.cpp) |
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
 | 807A | [Is it rated?](https://codeforces.com/contest/807/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/807/A%20-%20Is%20it%20rated%3F/solution.cpp) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.cpp) |
+| 1535B | [Array Reodering](https://codeforces.com/contest/1535/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1535/B%20-%20Array%20Reodering/solution.cpp) |
 
 ### strings
 
@@ -160,4 +202,14 @@
 |---|---------|------------|----------|
 | 1843C | [Sum in Binary Tree](https://codeforces.com/contest/1843/problem/C) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1843/C%20-%20Sum%20in%20Binary%20Tree/solution.cpp) |
 
+### two pointers
 
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.cpp) |
+| 489B | [BerSU Ball](https://codeforces.com/contest/489/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/489/B%20-%20BerSU%20Ball/solution.cpp) |
+| 1760D | [Challenging Valleys](https://codeforces.com/contest/1760/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/tanish-batra123/codeforces-question/blob/HEAD/1760/D%20-%20Challenging%20Valleys/solution.cpp) |
+
+---
+
+> Generated by [CFPusher — Codeforces to GitHub](https://github.com/SarJ2004/cf-pusher)
